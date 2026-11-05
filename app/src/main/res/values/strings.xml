@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RoadAssist</string>
+
+    <string name="brand_name_road">Road</string>
+    <string name="brand_name_assist">Assist</string>
+    <string name="brand_tagline">ALWAYS ON YOUR ROUTES</string>
+
+    <string name="onboarding_skip">Skip</string>
+    <string name="onboarding_headline_primary">Help on the Road,</string>
+    <string name="onboarding_headline_accent">Jab Aapko\nZarurat Ho</string>
+    <string name="onboarding_subtitle">Gaari ka masla kahin bhi ho, RoadAssist hamesha aap ke saath hai. Fast. Reliable. Across Pakistan.</string>
+    <string name="onboarding_benefit_assistance">24/7\nAssistance</string>
+    <string name="onboarding_benefit_coverage">Nationwide\nCoverage</string>
+    <string name="onboarding_benefit_drivers">Trusted by\n10K+ Drivers</string>
+    <string name="onboarding_get_started">Get Started</string>
+</resources>

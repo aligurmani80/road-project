@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="44dp"
+    android:height="38dp"
+    android:viewportWidth="64"
+    android:viewportHeight="56">
+
+    <!-- White road chevrons -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M0,56 L0,47 L26,0 L38,0 L64,47 L64,56 L50,56 L32,20 L14,56 Z" />
+
+    <!-- Orange inner A -->
+    <path
+        android:fillColor="#FF5A00"
+        android:fillType="evenOdd"
+        android:pathData="M32,24 L45,52 L37.6,52 L32,40.5 L26.4,52 L19,52 Z M32,33.2 L34.4,37.8 L29.6,37.8 Z" />
+</vector>
